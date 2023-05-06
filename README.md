@@ -16,5 +16,5 @@ Here's an image example for a simple 3DHeatmap In Python:
 ## Usage
 Prepare your dataset as a CSV file with two columns: x and y. Each row represents a point on the heatmap.
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
