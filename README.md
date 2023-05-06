@@ -11,7 +11,7 @@ Here's an image example for a simple Heatmap In Python:
 
 Here's an image example for a simple 3DHeatmap In Python:
 
-![My Project](/images/myHeatmapInPython.png "my3DHeatmapInPython.py")
+![My Project](/images/my3DHeatmapInPython.png "my3DHeatmapInPython.py")
 
 ## Usage
 Prepare your dataset as a CSV file with two columns: x and y. Each row represents a point on the heatmap.
