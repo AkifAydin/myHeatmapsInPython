@@ -33,7 +33,7 @@ print(sample_matrix)
 # cbar = corrulation bar
 # xticklabels = xField
 # yticklabels = yField
-sns.heatmap(sample_matrix, cmap="jet", annot=False, fmt=".1f", cbar=True, xticklabels=index, yticklabels=header, linewidths=0.5, linecolor="yellow")
+sns.heatmap(sample_matrix, cmap="jet", annot=True, fmt=".1f", cbar=True, xticklabels=index, yticklabels=header, linewidths=0.5, linecolor="yellow")
 
 # Set axis labels and title
 plt.xlabel("Columns")
